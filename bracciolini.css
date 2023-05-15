@@ -1,0 +1,16 @@
+#borderimg1 { 
+    border: 30px solid transparent;
+    padding: 40px;
+    border-image: url(vecchio_settecentesco.jpg) 30 round;
+  }
+    #bracciolini{
+      font-family:'Times New Roman', Times, serif;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 100px;
+      font-size: 15px;
+    }
+  
+  
+  
