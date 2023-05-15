@@ -1,6 +1,6 @@
 #borderimg1 { 
     border: 30px solid transparent;
-    padding: 40px;
+    padding: 400px;
     border-image: url(vecchio_settecentesco.jpg) 30 round;
   }
     #bracciolini{
