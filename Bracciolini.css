@@ -1,15 +1,16 @@
 #borderimg1 { 
-    border: 30px solid transparent;
+    border: 50px solid transparent;
     padding: 30px;
     border-image: url(cornice.jpg) 30 round;
   }
+
     #bracciolini{
       font-family:'Luminari', Times, serif;
       margin-top: 100px;
       margin-bottom: 100px;
       margin-right: 150px;
-      margin-left: 100px;
-      font-size: 15px;
+      margin-left: 150px;
+      font-size: 20px;
     }
     html { 
         background: url(vecchio.avif) no-repeat center center fixed; 
@@ -23,8 +24,8 @@
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
-    margin-left: 100px;
-    font-size: 15px;
+    margin-left: 520px;
+    font-size: 30px;
 }
 #immagine{
     font-family:'Luminari', Times, serif;
@@ -32,6 +33,15 @@
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 100px;
-    font-size: 15px;
+    font-size: 20px;
 }
-  
+
+#indice{
+    font-family:'Luminari', Times, serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+
