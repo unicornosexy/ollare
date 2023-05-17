@@ -1,16 +1,25 @@
 #borderimg1 { 
-    border: 300px solid transparent;
-    padding: 400px;
-    border-image: url(vecchio_settecentesco.jpg) 30 round;
+    border: 30px solid transparent;
+    padding: 30px;
+    border-image: url(cornice.jpg) 30 round;
   }
     #bracciolini{
-      font-family:'Times New Roman', Times, serif;
+      font-family:'Luminari', Times, serif;
       margin-top: 100px;
       margin-bottom: 100px;
       margin-right: 150px;
       margin-left: 100px;
       font-size: 15px;
     }
-  
+    html { 
+        background: url(vecchio.avif) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+#titolo{
+    font-family:'Luminari', Times, serif;
+}
   
   
