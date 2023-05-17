@@ -20,6 +20,18 @@
       }
 #titolo{
     font-family:'Luminari', Times, serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    font-size: 15px;
 }
-  
+#immagine{
+    font-family:'Luminari', Times, serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    font-size: 15px;
+}
   
