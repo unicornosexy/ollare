@@ -1,6 +1,6 @@
 #borderimg1 { 
     border: 50px solid transparent;
-    padding: 30px;
+    padding: 20px;
     border-image: url(cornice.jpg) 30 round;
   }
 
